@@ -4,15 +4,15 @@
 
 @font-face {
   font-family: "GothamBlack";
-  src: url('../fonte/Gotham-Black.otf') format('opentype');
+  src: url('../../fonte/Gotham-Black.otf') format('opentype');
 }
 @font-face{
   font-family: "GothamBold";
-  src: url('../fonte/Gotham-Bold.otf') format('opentype');
+  src: url('../../fonte/Gotham-Bold.otf') format('opentype');
 }
 @font-face{
   font-family: "GothamBook";
-  src: url('../fonte/GothamBook.ttf') format('truetype');
+  src: url('../../fonte/GothamBook.ttf') format('truetype');
 }
 
 
