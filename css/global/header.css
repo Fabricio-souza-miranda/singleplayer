@@ -82,6 +82,9 @@
   .header{
   padding-left: 10px;
   }
+  .logo {
+    margin-right: 50px;
+  }
   .header-menu {
     position: absolute;
     top: 9vh;
