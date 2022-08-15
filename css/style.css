@@ -8,3 +8,6 @@
 
 /* Utilitarios */
 @import "./utilizaveis/componentes.css";
+
+/* Showcase */
+@import "./showcase/showcase.css";

@@ -4,6 +4,7 @@
   position: fixed;
   top: 0px;
   width: 100%;
+  z-index: 999;
 }
 
 .header {
@@ -87,7 +88,7 @@
   padding-left: 10px;
   }
   .logo {
-    margin-right: 50px;
+    margin-right: 20px;
   }
   .header-menu {
     position: absolute;
