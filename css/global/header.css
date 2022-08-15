@@ -1,6 +1,9 @@
 .header-bg{
   background-color: var(--cor-0);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .header {
@@ -68,6 +71,7 @@
 
 .mobile-menu {
   cursor: pointer;
+  display: none;
 }
 
 .mobile-menu div{
@@ -103,6 +107,9 @@
   }
   .header-menu li:first-child{
     margin-top: 40px;
+  }
+  .mobile-menu{
+    display: block;
   }
   .mobile-menu div{
     display: block;
