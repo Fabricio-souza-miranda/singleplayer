@@ -70,6 +70,9 @@
   .feed-news p{
     display: none;
   }
+  .feed-news a {
+    padding: 12px 12px 0px 0px;
+  }
   .feed-news .time{
     display: none;
   }
