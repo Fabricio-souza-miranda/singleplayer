@@ -86,7 +86,7 @@
   .feed-news p{
     display: none;
   }
-  .feed-news a {
+  .feed-news a + a{
     padding: 4px 8px 0px 0px;
   }
   .feed-news .time{
