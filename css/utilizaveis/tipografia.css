@@ -46,6 +46,10 @@
   font: 600 4rem/1.125 "GothamBold", sans-serif;
 }
 
+.black{
+  font-family: "GothamBlack", "GothamBold", sans-serif;
+}
+
 @media (max-width: 1200px) {
   .font-1-sup {
     font-size: 3rem;

@@ -1,0 +1,36 @@
+.minecraft span{
+  color: #39C722;
+}
+.minecraft:hover h2{
+  color: #39C722;
+}
+
+
+.league-of-legends span{
+  color: #F1B009;
+}
+.league-of-legends:hover h2{
+  color: #F1B009;
+}
+
+.geral span{
+  color: #BD1BD8;
+}
+.geral:hover h2{
+  color: #BD1BD8;
+}
+
+.gtav span{
+  color: #5A7F16;
+}
+.gtav:hover h2 {
+  color: #5A7F16;
+}
+
+.r6 span {
+  color: #313B96;
+}
+
+.r6:hover h2 {
+  color: #313B96;
+}

@@ -6,8 +6,12 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/* Utilitarios */
+/* Utilizaveis */
 @import "./utilizaveis/componentes.css";
+@import "./utilizaveis/category.css";
 
 /* Showcase */
 @import "./showcase/showcase.css";
+
+/* Other News */
+@import "./othernews.css";

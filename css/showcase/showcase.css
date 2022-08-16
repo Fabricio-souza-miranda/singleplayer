@@ -2,6 +2,7 @@
   background-color: var(--cor-0);
   border-radius: 8px;
   margin-top: 106px;
+  margin-bottom: 20px;
 }
 
 .showcase{
@@ -10,6 +11,8 @@
   gap: 16px 32px;
   padding: 24px;
 }
+
+
 
 .main-news,
 .news1,
@@ -78,8 +81,8 @@
   .showcase{
     grid-template-columns: 1fr;
     padding: 20px;
-    
   }
+
   .main-news img{
     height: 30vh;
     width: 100%;
