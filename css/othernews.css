@@ -24,8 +24,12 @@
   transform: translateX(8px);
 }
 
-.feed-news a {
+.feed-news a + a {
   padding: 12px 20px 0px 0px;
+}
+
+.feed-news span {
+  margin-top: 300px;
 }
 
 .feed-news img{
