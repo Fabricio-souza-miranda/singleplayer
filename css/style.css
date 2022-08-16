@@ -10,8 +10,10 @@
 @import "./utilizaveis/componentes.css";
 @import "./utilizaveis/category.css";
 
-/* Showcase */
-@import "./showcase/showcase.css";
+/* Home */
 
-/* Other News */
+@import "./showcase/showcase.css";
 @import "./othernews.css";
+
+/* Newsletter */
+@import "./newsletter.css";
