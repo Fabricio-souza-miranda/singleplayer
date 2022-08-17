@@ -157,6 +157,10 @@
   .newspage01-header h1 {
   padding-bottom: 2rem;
   max-width: 13ch;
+  font-family: "GothamBold", Arial, Helvetica, sans-serif;
+  }
+  .newspage01-main h2{
+  font-family: "GothamBold", Arial, Helvetica, sans-serif;
   }
   .newspage01-header img {
     height: 300px;
