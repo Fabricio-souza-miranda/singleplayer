@@ -17,3 +17,6 @@
 
 /* Newsletter */
 @import "./newsletter.css";
+
+/* News Pages */
+@import "./newspages/newspage01.css";
