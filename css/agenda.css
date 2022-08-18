@@ -1,0 +1,147 @@
+.agenda{
+  margin-top: 89px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+
+.agenda h1 {
+  display: flex;
+  margin: 3rem 1.25rem 7.5rem 1.25rem;
+  transition: .2s ease-out;
+  justify-content: center;
+}
+
+.agenda h1:hover{
+  color: #21DC4A;
+}
+
+.agenda-games{
+  margin: 0px 20px;
+}
+
+.agenda-games:last-child{
+  margin-bottom: 7.5rem;
+}
+
+.agenda-games li {
+  margin-bottom: 2rem;
+}
+
+.games-block::after{
+  content: "";
+  background-color: var(--cor-4);
+  display: block;
+  height: 5px;
+  width: 100%;
+  transition: .2s ease;
+}
+
+.games-block:hover::after{
+  background-color: #21DC4A;
+}
+
+.agenda-games h3{
+  margin-bottom: 1.25rem;
+}
+
+.games-block{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+}
+
+.games-container {
+  background-color: var(--cor-0);
+  padding: 0.75rem 1.25rem;
+}
+
+
+.games-date{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1.25rem;
+  gap: 4px;
+}
+
+.games-game{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.games-game i {
+  padding-top: 0.6rem;
+}
+
+.team{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.subscribe li{
+  display: flex;
+  align-items: center;
+  padding-bottom: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  flex-wrap: wrap;
+}
+
+.subscribe li span {
+  color: var(--cor-p1);
+}
+.subscribe li::before{
+  content: "";
+  background-image: url("../../img/icons/list-detail.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  padding-right: 8px;
+}
+
+.subscribe a{
+  display: flex;
+  flex-wrap: wrap;
+  color: var(--cor-p1);
+  font-family: "GothamBold";
+  border-bottom: 2px solid transparent;
+}
+
+.subscribe a:hover{
+  border-bottom: 2px solid var(--cor-p1);
+}
+
+.detail{
+  display: block;
+  width: 450px;
+  height: 10px;
+  background-color: var(--cor-p1);
+  margin: 0 auto 48px;
+}
+
+
+@media (max-width: 800px){
+  .agenda-games h3{
+    font-size: 1rem;
+  }
+  .games-date h4,
+  .games-date span{
+    font-size: 0.7rem;
+  }
+  .agenda h1 {
+    margin: 2rem 0.2rem 4rem 0.2rem;
+  }
+  .agenda-games:last-child{
+    margin-bottom: 2rem;
+  }
+  .subscribe li {
+    font-size: 1rem;
+  }
+  .detail{
+    width: 250px;
+  }
+}

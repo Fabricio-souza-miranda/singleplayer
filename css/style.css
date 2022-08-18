@@ -20,3 +20,6 @@
 
 /* News Pages */
 @import "newspages/newspage.css";
+
+/* Agenda */
+@import "./agenda.css";
