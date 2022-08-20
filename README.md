@@ -1,8 +1,8 @@
 <h1 align= "center">
-            <img src="../img/logo/logo.png" alt="" width="400">
+            <img src="./img/logo/logo.png" alt="" width="400">
 </h1>
 <h1 align= "center">
-            <img src="../readme/img01.jpg" alt="" width="1500">
+            <img src="./readme/img01.jpg" alt="" width="1500">
 </h1>
 </br>
 
@@ -32,6 +32,6 @@
 <br/>
 
 <h1 align= "center">
-            <img src="../readme/DESKTOPwpp.jpg" alt="" width="1500">
+            <img src="./readme/DESKTOPwpp.jpg" alt="" width="1500">
 </h1>
 <p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Fabrício Souza Miranda</a> 🪐</p>
