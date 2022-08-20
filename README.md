@@ -34,4 +34,4 @@
 <h1 align= "center">
             <img src="./readme/desktopWPP.jpg" alt="" width="1500">
 </h1>
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Fabrício Souza Miranda</a> 🪐</p>
+<p align="center"> Developed by <a href="github.com/Fabricio-souza-miranda">Fabrício Souza Miranda</a> 🪐</p>
